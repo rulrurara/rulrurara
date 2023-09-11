@@ -59,5 +59,5 @@
 <br>
 
 ### 🎀 포트폴리오
-<a href="https://funky-action-986.notion.site/dda04bb1c0704dceb101da62331e1a07?pvs=4">
+<a href="https://funky-action-986.notion.site/dda04bb1c0704dceb101da62331e1a07?pvs=4">노션 포트폴리오</a> 
 

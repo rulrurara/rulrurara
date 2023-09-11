@@ -58,7 +58,6 @@
 | 2023.09.01 ~ 09.04 | 개인 프로젝트 |  금융 OPEN API - SSAFY BANK | http://www.ssafybank.com/
 <br>
 
-### 🎀 Summary
- <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulrurara" alt="Top Langs">
-</div>
+### 🎀 포트폴리오
+<a href="[https://github.com/yj0111/Collabee_project](https://funky-action-986.notion.site/dda04bb1c0704dceb101da62331e1a07?pvs=4)https://funky-action-986.notion.site/dda04bb1c0704dceb101da62331e1a07?pvs=4">
+

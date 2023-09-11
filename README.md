@@ -60,9 +60,6 @@
 
 ### 🎀 Summary
  <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj0111" alt="Top Langs">
-  <a href="https://solved.ac/ooyouj/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ooyouj" alt="Solved.ac Profile">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulrurara" alt="Top Langs">
 </div>
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyj0111&count_bg=%2396D6E8&title_bg=%237FB0E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->

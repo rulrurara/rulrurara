@@ -55,7 +55,7 @@
 | 2022.09.01 ~ 10.07 | 구디아카데미 | <a href="https://github.com/yj0111/Collabee_project">의약품 리뷰 및 영양제 관리 플랫폼</a> | 
 | 2023.05.09 ~ 05.26 | 삼성청년SW아카데미(SSAFY) | <a href="https://github.com/rulrurara/Kitty-Football-Club"> 축구팀 경기 매칭 서비스</a>| SSAFY 1학기 프로젝트 서울6반 1위🏆
 | 2023.07.04 ~ 08.18 | 삼성청년SW아카데미(SSAFY) |   <a href="https://github.com/Mohey-2023"> 오프라인 모임 앱</a> | SSAFY 2학기 공통프로젝트 서울8반 1위🏆
-| 2023.09.01 ~ 09.04 | 개인 프로젝트 |   <a href=https://github.com/orgs/SSAFYBANK/repositories">금융 OPEN API - SSAFY BANK </a> | http://www.ssafybank.com/
+| 2023.09.01 ~ 09.04 | 개인 프로젝트 |   <a href="https://github.com/orgs/SSAFYBANK/repositories">금융 OPEN API - SSAFY BANK </a> | http://www.ssafybank.com/
 <br>
 
 ### 🎀 포트폴리오

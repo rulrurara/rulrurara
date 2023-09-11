@@ -8,8 +8,8 @@
 ### 💻 Tech Stack
 <p>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/SpringSecurity-83B81A?style=for-the-badge&logo=SpringSecurity&logoColor=white">
  <br>
  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
@@ -18,12 +18,15 @@
  <br>
  <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Flutter-40AEF0?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
  <br>
  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp 
  <br>
  <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square&logo=AmazonS3&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Jenkins-191A1B?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
 </p>
 
 <br>

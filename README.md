@@ -5,6 +5,10 @@
 ### 👩🏻‍💻 Backend Developer
 <br>
 
+### 🎀 포트폴리오
+<a href="https://funky-action-986.notion.site/dda04bb1c0704dceb101da62331e1a07?pvs=4">노션 포트폴리오</a> 
+<br>
+
 ### 💻 Tech Stack
 <p>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/></a>&nbsp
@@ -61,6 +65,5 @@
 
 <br>
 
-### 🎀 포트폴리오
-<a href="https://funky-action-986.notion.site/dda04bb1c0704dceb101da62331e1a07?pvs=4">노션 포트폴리오</a> 
+
 
